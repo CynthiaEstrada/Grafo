@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1495632312 source:c:\users\cyndi\desktop\carpertas\c++\grafos\main.cpp
+	<cstdio>
+	<cstdlib>
+	"Grafo.hpp"
+
+1495558456 c:\users\cyndi\desktop\carpertas\c++\grafos\grafo.hpp
+	<stdio.h>
+
+1495549993 source:c:\users\cyndi\desktop\carpertas\c++\grafos\grafo.cpp
+	"Grafo.hpp"
+
