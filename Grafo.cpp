@@ -207,7 +207,7 @@ void print(graph &g)
 			printf("[%i, %i] %i\n", i, j, g.v[g.f(i,j)]);
 		}
 	}
-}*/
+}
 
 int main(int argc, const char * argv[])
 {
