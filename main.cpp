@@ -22,6 +22,10 @@ int main(){
 
     print(g);
 
+    printf("comienza Busqueda a profundidad");
+    g.DeepFirstSearch(1, 6, g);
+	printf(" ");
+
     return 0;
 }
 /*
